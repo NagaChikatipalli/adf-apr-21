@@ -8,6 +8,9 @@
 		"parameters": {
 			"fileName": {
 				"type": "string"
+			},
+			"inputCSV": {
+				"type": "object"
 			}
 		},
 		"annotations": [],
