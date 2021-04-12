@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime1loik",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
